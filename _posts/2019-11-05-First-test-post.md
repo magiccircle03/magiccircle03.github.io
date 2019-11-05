@@ -2,6 +2,7 @@
 title: "Welcome to Jekyll!!!~!~!"
 date: 2019-11-05 
 categories: jekyll update
+image: https://user-images.githubusercontent.com/51072198/68190937-bd524f00-fff1-11e9-9efa-64c60b726474.jpg
 ---
 
 # [제목1] 지킬 포스팅하는 방법을 익히고 있다!
@@ -24,5 +25,10 @@ categories: jekyll update
 ![이미지 연습용 죠르디](https://user-images.githubusercontent.com/51072198/68190937-bd524f00-fff1-11e9-9efa-64c60b726474.jpg)
 
 #### [제목4] 4개도 되나 보자
+```
+public class Hello {
+  System.out.println("hello~!");
+}
+```
 
 ##### [제목5] 5개는 어떨까?
