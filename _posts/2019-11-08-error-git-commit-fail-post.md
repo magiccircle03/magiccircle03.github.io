@@ -14,6 +14,7 @@ categories: error
 2. 위와 같지만 직접 명령 -> 실패
 [https://stackoverflow.com/questions/47461612/commit-failed-exit-code-128-received](https://stackoverflow.com/questions/47461612/commit-failed-exit-code-128-received)
 
-**3. `git config --global commit.gpgsign false` -> 성공**
+3. ** gpg 설정 변경-> 성공**
+`git config --global commit.gpgsign false`
 [https://stackoverflow.com/questions/47461612/commit-failed-exit-code-128-received](https://stackoverflow.com/questions/47461612/commit-failed-exit-code-128-received)
 
