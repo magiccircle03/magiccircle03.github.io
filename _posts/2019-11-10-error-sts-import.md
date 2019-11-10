@@ -6,7 +6,7 @@ categories: error
 
 ## 1. 발생 문제
 
-GitHub Desktop을 이용하여 프로젝트를 Clone 한 뒤, STS에서 import했을 때 실행하면 에러가 나는 경우가 있다.
+GitHub Desktop을 이용하여 프로젝트를 Clone 한 뒤, STS에서 import했을 때 실행하면 에러가 나는 경우가 있다.<br>
 자바 버전을 맞춰주고, Dependencies 설정을 해주면 해결된다.
 
 ## 2. 문제 해결 
