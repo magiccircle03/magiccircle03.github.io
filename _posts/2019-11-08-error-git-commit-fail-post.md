@@ -1,7 +1,7 @@
 ---
 title: "[git] commit failed - exit code 128 received, with output"
 date: 2019-11-08
-categories: error git
+categories: [error, git]
 ---
 ## 1. 발생 문제
 깃허브 데스크탑에서 커밋하다 다음과 같은 에러가 발생했다.
