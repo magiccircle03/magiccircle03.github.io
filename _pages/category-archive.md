@@ -1,6 +1,8 @@
 ---
-title: "Posts by Category"
+title: "Posts"
 layout: categories
 permalink: /categories/
 author_profile: true
+sidebar : 
+    nav : "side"
 ---
