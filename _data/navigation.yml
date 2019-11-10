@@ -1,14 +1,28 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Category"
     url: /categories/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "About Me"
+    url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+side:
+  - title: "spring"
+    url: /categories/#spring
+  - title: "node"
+    url: /categories/#spring
+  - title: "aws"
+    url: /categories/#aws
+  - title: "git"
+    url: /categories/#git
+  - title: "error"
+    url: /categories/#error
+  - title: "jekyll"
+    url: /categories/#jekyll
+  - title: "TIL & note"
+    url: /categories/#til
