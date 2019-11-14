@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Da-ae's site"
+title                    : "Da-ae's blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Da-ae Kim"
-description              : "Hi~! Da-ae's website~!!"
+description              : "Hi~! Da-ae's blog~!!"
 url                      : https://magiccircle03.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "magiccircle03/magiccircle03.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -111,7 +111,7 @@ author:
   avatar           : "/assets/images/bio-photo1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hi, I'm da-ae!"
   location         : "Seoul"
-  email            :
+  email            : "daaekim.dev@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -143,7 +143,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: https://github.com/magiccircle03 # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
