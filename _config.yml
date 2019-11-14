@@ -111,11 +111,11 @@ author:
   avatar           : "/assets/images/bio-photo1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hi, I'm da-ae!"
   location         : "Seoul"
-  email            : "daaekim.dev@gmail.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      # url: "daaekim.dev@gmail.com" # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
