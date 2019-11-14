@@ -15,7 +15,7 @@ side:
   - title: "spring"
     url: /categories/#spring
   - title: "node"
-    url: /categories/#spring
+    url: /categories/#node
   - title: "aws"
     url: /categories/#aws
   - title: "git"
@@ -25,4 +25,4 @@ side:
 # - title: "jekyll"
 #   url: /categories/#jekyll
   - title: "TIL & note"
-    url: /categories/#til
+    url: /categories/#note
