@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Category"
-    url: /categories/
+  # - title: "All Post"
+  # url: /categories/
   - title: "About Me"
     url: /about/
   # - title: "Sample Posts"
@@ -22,7 +22,7 @@ side:
     url: /categories/#git
   - title: "error"
     url: /categories/#error
-  - title: "jekyll"
-    url: /categories/#jekyll
+# - title: "jekyll"
+#   url: /categories/#jekyll
   - title: "TIL & note"
     url: /categories/#til
