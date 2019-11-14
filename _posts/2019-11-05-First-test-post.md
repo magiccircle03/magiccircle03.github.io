@@ -1,7 +1,7 @@
 ---
 title: "지킬 포스팅하는 방법을 익히고 있다!!~!~!"
-date: 2019-11-05 
-categories: jekyll
+date: 2019-11-14
+categories: note
 image: https://user-images.githubusercontent.com/51072198/68190937-bd524f00-fff1-11e9-9efa-64c60b726474.jpg
 ---
 
