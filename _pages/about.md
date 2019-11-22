@@ -1,7 +1,8 @@
 ---
-title: "About Me"
+title: "Portfolio"
+layout: collection
 permalink: /about/
-sidebar : 
-    nav : "side"
+collection: about
+entries_layout: grid
 ---
 # test
