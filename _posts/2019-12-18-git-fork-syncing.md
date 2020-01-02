@@ -4,7 +4,7 @@ date: 2019-12-18
 categories: git
 ---
 
-```
+```bash
 // 포크 저장소를 로컬로 클론
 $ git clone https://github.com/magiccircle03/myrepository.git
 
